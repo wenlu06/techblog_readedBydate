@@ -1,2 +1,4 @@
 1.Java中类及方法的加载顺序
 https://blog.csdn.net/u014745069/article/details/82655339
+2.ThreadLocalMap为什么要定义在ThreadLocal中，而不直接定义在Thread中？
+https://ask.csdn.net/questions/730831
