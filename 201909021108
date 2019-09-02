@@ -1,2 +1,4 @@
 1.MyBatis二级缓存巧妙使用装饰器模式与builder模式
 https://blog.csdn.net/jisuanji12306/article/details/85916671
+2.java中System.getProperty("line.separator", "\n");
+https://blog.csdn.net/u014231523/article/details/83052469
