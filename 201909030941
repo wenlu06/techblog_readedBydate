@@ -18,3 +18,5 @@ https://www.cnblogs.com/moyand/p/9047978.html
 http://www.codingwhy.com/view/799.html
 10.分布式事务四_基于可靠消息的最终一致性
 https://blog.csdn.net/qq_27384769/article/details/79305402
+11.为什么使用消息队列？消息队列有什么优点和缺点？Kafka、ActiveMQ、RabbitMQ、RocketMQ 都有什么优点和缺点？
+https://doocs.github.io/advanced-java/#/docs/high-concurrency/why-mq
