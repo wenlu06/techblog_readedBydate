@@ -4,3 +4,5 @@ https://www.cnblogs.com/skywang12345/p/3514589.html
 https://blog.csdn.net/JH_WW/article/details/79867263
 3.Thread类源码剖析
 https://www.cnblogs.com/dennyzhangdd/p/7280032.html
+4.为什么wait和notify必须在同步方法或同步块中调用？
+https://blog.csdn.net/weixin_33674976/article/details/91393278
