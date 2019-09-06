@@ -6,3 +6,5 @@ https://blog.csdn.net/JH_WW/article/details/79867263
 https://www.cnblogs.com/dennyzhangdd/p/7280032.html
 4.为什么wait和notify必须在同步方法或同步块中调用？
 https://blog.csdn.net/weixin_33674976/article/details/91393278
+5.阿里面试题，为什么wait()方法要放在同步块中？
+https://blog.csdn.net/zl1zl2zl3/article/details/89236983
